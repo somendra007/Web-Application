@@ -119,6 +119,7 @@
     <Content Include="Bootstrap\js\popper.min.js" />
     <Content Include="Global.asax" />
     <Content Include="Home\Home.aspx" />
+    <Content Include="Styles\Home.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

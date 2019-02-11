@@ -12,6 +12,8 @@
     <link href="../Bootstrap/css/mdb.min.css" rel="stylesheet" />
     <!-- Your custom styles (optional) -->
     <link href="Bootstrap/css/style.css" rel="stylesheet" />
+    <!-- Your custom styles (optional) -->
+    <link href="../Styles/Home.css" rel="stylesheet" />
 </head>
 <body>
     <form id="form1" runat="server">
@@ -19,7 +21,7 @@
             <!--Main Navigation-->
             <header>
 
-                <nav class="navbar navbar-expand-lg navbar-dark indigo lighten-1 scrolling-navbar">
+                <nav class="navbar navbar-expand-lg fixed-top navbar-dark indigo lighten-3 scrolling-navbar">
                     <div class="container">
                         <a class="navbar-brand" href="#"><strong>Monday</strong></a>
                         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
@@ -60,6 +62,37 @@
                     </div>
                 </nav>
 
+                <!-- Intro -->
+                <section class="view">
+
+                    <div class="row">
+
+                        <div class="col-md-6">
+
+                            <div class="d-flex flex-column justify-content-center align-items-center h-100">
+                                <h1 class="heading display-3">Login and Logout with Email Notify</h1>
+                                <h4 class="subheading font-weight-bold">I want to use Material design for Bootstrap World's most popular framework for building responsive</h4>
+                                <div class="mr-auto">
+                                    <button type="button" class="btn btn-lily btn-margin btn-rounded">Get started <i class="fas fa-caret-right ml-3"></i></button>
+                                </div>
+                            </div>
+
+                        </div>
+
+                        <div class="col-md-6">
+
+                            <div class="view">
+                                <img src="https://images.pexels.com/photos/325045/pexels-photo-325045.jpeg" class="img-fluid" alt="smaple image" />
+                                <div class="mask flex-center hm-gradient">
+                                </div>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </section>
+                <!-- Intro -->
             </header>
             <!--Main Navigation-->
         </div>

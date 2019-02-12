@@ -12,7 +12,7 @@
     <link href="../Bootstrap/css/mdb.min.css" rel="stylesheet" />
     <!-- Your custom styles (optional) -->
     <link href="Bootstrap/css/style.css" rel="stylesheet" />
-    <!-- Your custom styles (optional) -->
+    <!-- Your custom styles -->
     <link href="../Styles/Home.css" rel="stylesheet" />
 </head>
 <body>

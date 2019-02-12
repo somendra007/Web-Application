@@ -1,0 +1,13 @@
+﻿body {
+}
+
+.card {
+    width: 494px;
+    margin-top: 150px;
+    margin: 150px 150px 0px;
+}
+
+.btn {
+    border-radius: 50px 20px;
+    color: white;    
+}

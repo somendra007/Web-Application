@@ -31,7 +31,7 @@
                         <div class="collapse navbar-collapse" id="navbarSupportedContent">
                             <ul class="navbar-nav ml-auto">
                                 <li class="nav-item active">
-                                    <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                                    <a class="nav-link" href="Home.aspx">Home <span class="sr-only">(current)</span></a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" href="#">Contacts</a>
@@ -40,7 +40,7 @@
                                     <a class="nav-link" href="#">Login</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#">Register</a>
+                                    <a class="nav-link" href="../Signup/Registration.aspx">Register</a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" href="#">Newletter</a>
@@ -68,7 +68,6 @@
                     <div class="row">
 
                         <div class="col-md-6">
-
                             <div class="d-flex flex-column justify-content-center align-items-center h-100">
                                 <h1 class="heading display-3">Login and Logout with Email Notify</h1>
                                 <h4 class="subheading font-weight-bold">I want to use Material design for Bootstrap World's most popular framework for building responsive</h4>
